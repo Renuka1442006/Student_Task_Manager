@@ -46,6 +46,9 @@ function initApp() {
     return;
   }
 
+  const studentName = localStorage.getItem('student-task-manager.studentName');
+  document.getElementById('student-name-display').textContent = studentName || 'Student';
+
   bindEvents();
   loadTheme();
   loadTasks();
