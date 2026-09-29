@@ -2,9 +2,10 @@
   "name": "student_task_manager",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "server/server.js",
   "scripts": {
     "start": "node server.js",
+    "test": "node test.js",
     "build": "echo \"Build completed successfully\""
   },
   "repository": {
