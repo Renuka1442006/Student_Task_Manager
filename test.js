@@ -5,7 +5,7 @@ const tests = [
     'package.json',
     'index.html',
     'login.html',
-    'signup.html'
+    'signup.html',
 ];
 
 console.log('Starting automated tests...');
