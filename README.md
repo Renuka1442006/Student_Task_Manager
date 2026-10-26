@@ -1,3 +1,3 @@
 # Student_Task_Manager
-# Assignment3
-test pipeline added
+# Devops Practical 
+# Assignment 1-8
