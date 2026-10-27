@@ -4,7 +4,12 @@
   "description": "",
   "main": "server/server.js",
   "scripts": {
+ main
     "start": "node server/server.js",
+=======
+    "start": "node server.js",
+    "test": "node test.js",
+    main
     "build": "echo \"Build completed successfully\""
   },
   "repository": {
