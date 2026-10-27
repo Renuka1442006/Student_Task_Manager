@@ -1,0 +1,4 @@
+Feature Branch Demonstration
+
+This file was created on a separate Git branch
+to demonstrate isolated development.
