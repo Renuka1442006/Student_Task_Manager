@@ -1,3 +1,5 @@
 # Student_Task_Manager
-# Assignment3
+# Devops Practical 
 
+# Feature branch: assignment2-feature
+# Demonstration of collaborative development using Git.
